@@ -1,8 +1,10 @@
+package Codility;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class Main {
+public class TwoDigitHour {
 
     public static void main(String[] args) {
         System.out.println(solutionB(1, 8, 3, 2));
